@@ -10,8 +10,11 @@ Extract, Transform, Load.
 ## Summary
 * Shown below are the final queries and results after the data has finished going through the ETL pipeline created for this challenge. Both data tables in SQL show the expected number of rows in the respective tables in the database.
 
+* Movies table 
+
 ![movies_query](Resources/movies_query.png)
 
-
+* Ratings table
+ 
 ![ratings_query](Resources/ratings_query.png)
 
