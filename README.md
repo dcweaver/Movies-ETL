@@ -8,5 +8,10 @@ Extract, Transform, Load.
 4. Verify data was correctly exported with PgAdmin
 
 ## Summary
+* Shown below are the final queries and results after the data has finished going through the ETL pipeline created for this challenge. Both data tables in SQL show the expected number of rows in the respective tables in the database.
 
 ![movies_query](Resources/movies_query.png)
+
+
+![ratings_query](Resources/ratings_query.png)
+
